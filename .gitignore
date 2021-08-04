@@ -1,0 +1,5 @@
+
+./client/node_modules/.bin/acorn
+node_modules
+./../client/node_modules
+build
