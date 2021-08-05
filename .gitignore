@@ -1,17 +1,5 @@
 
-./client/node_modules/.bin/acorn
+
 node_modules
-./../client/node_modules
+
 build
-client/node_modules/.bin/acorn.cmd
-client/node_modules/.bin/acorn.cmd
-client/node_modules/.bin/ansi-html.cmd
-client/node_modules/.bin/atob.cmd
-client/node_modules/.bin/autoprefixer.cmd
-client/node_modules/.bin/babylon.cmd
-*.cmd
-*.md
-*.cmd
-client/node_modules/.bin/babylon.cmd
-client/node_modules/.bin/autoprefixer.cmd
-client/node_modules/.bin/he.cmd
